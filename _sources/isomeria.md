@@ -69,7 +69,7 @@ Cis-trans-isomeriaa esiintyy molekyyleissä, joissa on vähintään yksi kaksois
 
 ![Cis-trans-isomeria, esim.](cis_trans.png "Cis-trans-isomeria, esim.")
 
-Esimerkkinä vielä rasvahappo (pitkäketjuinen karboksyylihappo) nimeltä oleiinihappo ($\text{C}_{18}\text{H}_{34}\text{O}_{2}$). Rasvahappojen cis-muodot ovat terveellisempiä kuin trans-muodot. Tämä on voi muistaa siitä, että trans-muodon hiiliketju "muistuttaa" enemmän tyydynyttyneeltä rasvahapolta.
+Esimerkkinä vielä rasvahappo (pitkäketjuinen karboksyylihappo) nimeltä oleiinihappo ($\text{C}_{18}\text{H}_{34}\text{O}_{2}$). Rasvahappojen cis-muodot ovat terveellisempiä kuin trans-muodot. Tämän voi muistaa siitä, että trans-muodon hiiliketju muistuttaa enemmän tyydyttyneen rasvahapon suoraa ketjua.
 
 ![oleiinihappo, esim.](oleiininappo.png "Oleiinihapon cis- ja trans-muodot, esim.")
 

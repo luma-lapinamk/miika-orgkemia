@@ -5,18 +5,18 @@ Edellä todettiin, että sama molekyylikaava voi vastata useampaa kuin yhtä rak
 Isomeriaan kuuluu myös atomien erilaiset mahdollisuudet sijoittua molekyyliin kolmiulotteisessa tilassa. Molekyylin rakenne kolmessa ulottuvuudessa vaikuttaa esimerkiksi lääkeaineiden toimivuuteen. Kolmiulotteisen rakenteen tarkka mallinnus on vaativaa ja tehdään erityisillä tietokoneohjelmilla. 
 
 Isomeriaa on kahta tyyppiä, joista kumpikin voidaan jakaa kolmeen luokkaan:
-- Rakenneisomeria: ketjuisomeria, paikkaisomeria, funktioisomeria
+- Rakenneisomeria: runkoisomeria, paikkaisomeria, funktioisomeria
 - Stereoisomeria: cis-trans -isomeria, optinen isomeria, konformaatioisomeria
 
 ## Rakenneisomeria
 
 Rakenneisomeria tarkoittaa rakennekaavojen eroavaisuuksia kahdessa ulottuvuudessa. Rakenneisomeria liittyy joko yhdisteen hiiliketjuun, atomien tai sidosten paikkoihin molekyylissä, tai niin sanottujen funktionaalisten ryhmien esiintymiseen.
 
-**Ketjuisomeria**
+**Runkoisomeria**
 
-Ketjuisomeria tarkoittaa sitä, että molekyylien hiilivetyrunko on erilainen. Se voi olla suora tai haarautunut, ja joskus hiilet voivat muodostaa renkaitakin. 
+Runkoisomeria tarkoittaa sitä, että molekyylien hiilivetyrunko on erilainen. Se voi olla suora tai haarautunut, ja joskus hiilet voivat muodostaa renkaitakin. 
 
-Esimerkiksi $\text{C}_{18}\text{H}_8$ voi olla mm. kuvassa olevien yhdisteiden kaltainen:
+Esimerkiksi $\text{C}_{8}\text{H}_{18}$ voi olla mm. kuvassa olevien yhdisteiden kaltainen:
 
 ![Rakenneisomeerit, esim.](c8h18.png "Rakenneisomeerit, esim.")
 
@@ -69,9 +69,13 @@ Cis-trans-isomeriaa esiintyy molekyyleissä, joissa on vähintään yksi kaksois
 
 ![Cis-trans-isomeria, esim.](cis_trans.png "Cis-trans-isomeria, esim.")
 
+Esimerkkinä vielä rasvahappo (pitkäketjuinen karboksyylihappo) nimeltä oleiinihappo ($\text{C}_{18}\text{H}_{34}\text{O}_{2}$). Rasvahappojen cis-muodot ovat terveellisempiä kuin trans-muodot. Tämä on voi muistaa siitä, että trans-muodon hiiliketju "muistuttaa" enemmän tyydynyttyneeltä rasvahapolta.
+
+![oleiinihappo, esim.](oleiininappo.png "Oleiinihapon cis- ja trans-muodot, esim.")
+
 **Optinen isomeria**
 
-Optisessa isomeriassa rakenteet ovat toistensa peilikuvia. Alla olevassa esimerkissä, jossa on kaksi erilaista maitohappomolekyyliä, paksu sidosviiva tarkoittaa "kohti lukijaa" suuntautuvaa molekyylin osaa, ja katkoviiva tarkoittaa "poispäin lukijasta" suuntautuvaa molekyylin osaa. Kuvassa on esimerkkinä maitohapon optiset isomeerit. Ravinnossa (esim. hapanmaitotuotteet ja hapankaali) esiintyy D-maitohappoa, mutta ihmisen lihaksessa kovassa rasituksessa kehittyvä maitohappo on L-maitohappoa. 
+Optisessa isomeriassa rakenteet ovat toistensa peilikuvia. Molekyylistä löytyy tällöin hiili, jota nimitetään kiraliakeskukseksi. Tällaiseen hiileen on sitoutunut neljä erilaista ryhmää tai atomia. Alla olevassa esimerkissä, jossa on maitohappomolekyylin optiset isomeeerit, paksu sidosviiva tarkoittaa "kohti lukijaa" suuntautuvaa molekyylin osaa, ja katkoviiva tarkoittaa "poispäin lukijasta" suuntautuvaa molekyylin osaa. Ravinnossa (esim. hapanmaitotuotteet ja hapankaali) esiintyy D-maitohappoa, mutta ihmisen lihaksessa kovassa rasituksessa kehittyvä maitohappo on L-maitohappoa. 
 
 ![Optinen isomeria, esim.](optinen_isomeria.png "Optinen isomeria, esim.")
 

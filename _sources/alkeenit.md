@@ -16,6 +16,10 @@ Esim. Bromin additio eteeniin $\text{C}_2 \text{H}_4 + \text{Br}_2  → \text{C}
 
 ![Additio, esim. 1](additio1.png "Additio, esim. 1")
 
+**Alkeenin pelkistyminen eli hydraus**
+
+Tulossa... (kuten halogeenin additio: kaksoissidos aukeaa ja vety liittyy)
+
 **Veden additio**
 
 Veden additio tapahtuu samaan tapaa kuin halogeenien additio, mutta molekyyliin liittyvät osat ovat peräisin vedestä. Vesimolekyyli pilkkoutuu osiin $H$ ja $OH$. Kun kaksoissidos aukeaa, vesimolekyylien osat liittyvät molekyylin kohtiin, jotka vapautuvat kaksoissidoksen muodostaneisiin hiiliin. Tuloksena on alkoholi. Alkoholeja käsitellään erikseen myöhemmin.

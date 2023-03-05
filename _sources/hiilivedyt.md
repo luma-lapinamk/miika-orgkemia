@@ -20,8 +20,11 @@ Hiilivetyjen nimen perusta on pisin yhtenäinen molekyylistä löytyvä hiiliket
  
 Etuliitteen perään tulee pääte, joka kertoo sidostyypeistä:
 - Vain yksinkertaisin sidoksia (alkaanit): nimen pääte -aani
+    - metaani, etaani, propaani...
 - Yksi tai useampi kaksoissidos (alkeenit): nimen pääte -eeni
+    - eteeni, propeeni, 1-buteeni tai 2-buteeni...
 - Yksi tai useampi kolmoissidos (alkyynit): nimen pääte -yyni
+    - etyyni, propyyni...
 
 Kaksois- tai kolmoissidoksen paikka ilmaistaan numerolla hiiliketjun siitä päädystä laskettuna, josta on lyhin matka sidokseen. Jos hiiliketjuun liittyy jokin halogeeni, senkin nimi ja paikka liitetään mukaan nimeen. Pisimmistä yhtenäisestä hiiliketjusta lähtevät lyhyemmät ketjut nimetään edellä olevan taulukon mukaisesti, mutta siten, että nimen loppuosa on -yyli. Ketjun sijainti ilmoitetaan numerolla.
 

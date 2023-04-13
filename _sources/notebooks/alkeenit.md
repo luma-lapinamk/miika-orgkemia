@@ -1,4 +1,4 @@
-# Tydyttymättömät hiilivedyt
+# Tyydyttymättömät hiilivedyt
 
 ## Alkeenit
 
@@ -8,7 +8,7 @@ Avoketjuisten alkeenien, joissa on vain yksi kaksoissidos, yleinen molekyylikaav
 
 ### Alkeenien reaktioita
 
-Yleinen alkeenin reaktio on additio, joka tarkoittaa lisäämistä. Toisin kuin alkaanien substituutioreaktiossa, molekyyliin siis tulee lisää atomeja. Samalla alkeeni voi muuttua alkaaniksi. Alkeenien kaksoissidoksien hajoamista olosuhteista johtuen kutsutaan hapettumiseksi. Alkeeneja voidaan myös tarkoituksella yhdistää pitkäksi ketjuksi kaksoissidoksia purkamalla. Tällöin reaktion nimi on polyadditio.
+Yleinen alkeenin reaktio on additio, joka tarkoittaa lisäämistä. Toisin kuin alkaanien substituutioreaktiossa, molekyyliin siis tulee lisää atomeja. Alkeenien kaksoissidoksien hajoamista olosuhteista johtuen kutsutaan hapettumiseksi. Alkeeneja voidaan myös tarkoituksella yhdistää pitkäksi ketjuksi kaksoissidoksia purkamalla. Tällöin reaktion nimi on polyadditio.
 
 **Halogeenien additio**
 
@@ -20,7 +20,9 @@ Esim. Bromin additio eteeniin $\text{C}_2 \text{H}_4 + \text{Br}_2  → \text{C}
 
 **Alkeenin pelkistyminen eli hydraus**
 
-Tulossa... (kuten halogeenin additio: kaksoissidos aukeaa ja vety liittyy)
+Kuten halogeenien additiossa, alkeenin kaksoissidos aukeaa, jolloin hiilet voivat muodostaa kovalenttisen yksöissidoksen vetyatomeihin. Esimerkiksi propeenin hydrauksen reaktioyhtälö on $\text{C}_3 \text{H}_6 + \text{H}_2  → \text{C}_3 \text{H}_8$
+
+Alkeenien hydraus on yksi tärkeimmistä menetelmistä polttoaineiden, kuten bensiinin ja dieselin, valmistuksessa. Hydrausreaktiota katalysoi yleensä metalli-katalyytti, kuten platina, palladium tai nikkelin seokset. Katalyytin läsnäolo nopeuttaa reaktiota merkittävästi alentamalla reaktion aktivointienergiaa. Hydrausreaktiota voidaan myös tehostaa korottamalla reaktioon osallistuvien vetyatomien painetta ja lämpötilaa. Korkeammat paineet ja lämpötilat vaativat kuitenkin kalliimpia laitteistoja ja prosesseja.
 
 **Veden additio**
 
@@ -36,9 +38,15 @@ Esim. Kun vettä liittyy 1-propeeniin, niin vety liittyy todennäköisemmin pä�
 
 ![Additio, esim. 3](/images/additio2.png "Additio, esim. 3")
 
-**Alkeenin hapettuminen**
+**Alkeenien hapettuminen**
 
-Hapettumiseksi kutsutaan tilannetta, jossa alkeenin kaksoissidos rikkoutuu. Hapettavat aineet voivat olla erilaisia happipitoisia yhdisteitä. Esimerkiksi kumista tehdyt tuotteet haurastuvat, kun ilmansaasteiden takia alailmakehään muodostunut otsoni hajottaa kumin kaksoissidoksia. Hapen yhdisteet voivat hapettaa, eli käytännössä härskiinnyttää, myös ravinnon rasvoja.
+Hapettumiseksi kutsutaan tilannetta, jossa alkeenin kaksoissidos aukeaa ja reagoi hapen kanssa. Hapettavat aineet voivat olla erilaisia happipitoisia yhdisteitä tai happikaasu $ \text{O}_2 $. Esimerkiksi kumista tehdyt tuotteet haurastuvat, kun ilmansaasteiden takia alailmakehään muodostunut otsoni hajottaa kumin kaksoissidoksia. Hapen yhdisteet voivat hapettaa, eli käytännössä härskiinnyttää, myös ravinnon rasvoja.
+
+Yksi esimerkki alkeenien hapettumisesta on eteenin hapettuminen, joka voi johtaa etanaalin tai etikkahapon muodostumiseen. Reaktio tapahtuu yleensä katalyytin, kuten platina- tai palladium-metallin, läsnäollessa. Reaktiossa eteenimolekyyli $(\text{C}_2\text{H}_4)$ reagoi hapen kanssa, jolloin yksi tai molemmat kaksoissidoksen hiileistä hapettuvat. Tuotteena voi muodostua joko etanaalia tai etikkahappoa riippuen käytetystä katalyytistä ja reaktio-olosuhteista. Eteenin hapettumisen reaktioyhtälöt ovat
+
+$2 \ \text{C}_2\text{H}_4 + \text{O}_2 → 2 \ \text{CH}_3\text{CHO}$ (etanaali) tai
+
+$\text{C}_2\text{H}_4 + \text{O}_2 → \text{CH}_3 \text{COOH}$ (etikkahappo)
 
 **Alkeenien polyadditio**
 

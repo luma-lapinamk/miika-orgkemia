@@ -1,12 +1,10 @@
-# Tydyttymättömät hiilivedyt
-
-## Alkeenit
+# Alkeenit
 
 Alkeenit ovat hiilivetyjä, joissa on ainakin yksi kaksoissidos. Ne ovat tärkeitä kemian teollisuudessa.
 
 Avoketjuisten alkeenien, joissa on vain yksi kaksoissidos, yleinen molekyylikaava on $\text{C}_n \text{H}_{2n}$. Alkaaneihin verrattuna vetyjä mahtuu molekyyliin siis kaksi vähemmän. Tämä johtuu siitä, että hiilten välillä on alkaaniin verrattuna ylimääräinen sidos, johon kuluu yksi sidoselektroni kahdelta vierekkäiseltä hiileltä.
 
-### Alkeenien reaktioita
+## Alkeenien reaktioita
 
 Yleinen alkeenin reaktio on additio, joka tarkoittaa lisäämistä. Toisin kuin alkaanien substituutioreaktiossa, molekyyliin siis tulee lisää atomeja. Samalla alkeeni voi muuttua alkaaniksi. Alkeenien kaksoissidoksien hajoamista olosuhteista johtuen kutsutaan hapettumiseksi. Alkeeneja voidaan myös tarkoituksella yhdistää pitkäksi ketjuksi kaksoissidoksia purkamalla. Tällöin reaktion nimi on polyadditio.
 
@@ -30,7 +28,7 @@ Esim. Veden additio 2-metyyli-1-buteeniin
 
 ![Additio, esim. 2](/images/additio2.png "Additio, esim. 2")
 
-Veden liittyminen noudattaa enimmäkseen **Markovnikovin sääntöä**: vety liittyy siihen hiilen, jossa jo ennestään on enemmän vetyä. Samassa reaktiossa voi kuitenkin muodostua myös sellaista yhdistettä, jossa vedyn ja $\text{OH}$-ryhmän sijainti onkin päinvastainen. Tuloksena on siis kahden yhdisteen seos, jossa kuitenkin Markovnikovin säännön mukaista tuotetta on enemmän.
+Veden liittyminen noudattaa enimmäkseen Markovnikovin sääntöä: vety liittyy siihen hiilen, jossa jo ennestään on enemmän vetyä. Samassa reaktiossa voi kuitenkin muodostua myös sellaista yhdistettä, jossa vedyn ja $\text{OH}$-ryhmän sijainti onkin päinvastainen. Tuloksena on siis kahden yhdisteen seos, jossa kuitenkin Markovnikovin säännön mukaista tuotetta on enemmän.
 
 Esim. Kun vettä liittyy 1-propeeniin, niin vety liittyy todennäköisemmin päätyhiileen, jossa vetyjä on kaksi (neliöllä merkityt), kuin keskimmäiseen hiileen, jossa on vain yksi vety (ympyröity). Tuloksena on siis todennäköisemmin keskimmäisen kuvan yhdiste. Myös oikeanpuoleinen yhdiste on mahdollinen.
 
@@ -49,9 +47,3 @@ Esim. Polystyreenin ("styrox") lähtökohtana on eräs aromaattinen alkeeni, sty
 ![Polystyreeni](/images/Polystyrene_formation.png "Polystyreeni")
 
 Kuvan lähde: [Wikipedia (Public domain)](https://commons.wikimedia.org/w/index.php?curid=426479).
-
-## Alkyynit
-
-Alkyynit ovat hiilivetyjä, joissa on ainakin yksi kolmoissidos. Nekin ovat tärkeitä kemian teollisuudessa. Avoketjuisten alkyynien, joissa on yksi kolmoissidos, yleinen molekyylikaava on $\text{C}_n \text{H}_{2n-2}$.
-
-Kuten alkeeneilla, alkyynien reaktioita ovat additioreaktiot, kuten halogenointi, pelkistyminen eli hydraus, veden additio eli hydrataatio, sekä hapettuminen.

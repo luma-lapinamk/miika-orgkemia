@@ -1,6 +1,6 @@
 # Alkaanit
 
-Alkaanit ovat hiilivetyjä, joissa hiilten välillä on vain yksinkertaisia sidoksia. Alkaanit eroavat toisistaan hiilten ja vetyjen määrän perusteella. Hiilistä muodostunut runko voi olla muodoltaan suora, haarautunut tai rengasrakenteinen.
+Alkaanit ovat hiilivetyjä, joissa hiilten välillä on vain yksinkertaisia sidoksia. Siksi niitä kutsutaan myös tyydyttyneiksi hiilivedyiksi. Alkaanit eroavat toisistaan hiilten ja vetyjen määrän perusteella. Hiilistä muodostunut runko voi olla muodoltaan suora, haarautunut tai rengasrakenteinen.
 
 Avoketjuisille hiilivedyille, joissa hiilistä ei muodostu rengasta, voidaan aina määrittää molekyylikaava. Jos hiiliketjussa on $n$ hiiltä, niin ketjun keskiosassa on $n-2$ hiiltä ja kummassakin päässä yksi. Päätyhiiliin mahtuu kumpaankin 3 vetyä, ja keskiosan hiiliin jokaiseen kaksi. Tällöin vetyjen määrä on $2\cdot 3+(n-2)\cdot 2=6+2n-4=2n+2$. 
 

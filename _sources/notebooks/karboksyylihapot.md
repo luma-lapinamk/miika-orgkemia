@@ -28,6 +28,6 @@ $\text{CH}_3 \text{COOH}+\text{NaOH} \rightarrow \text{CH}_3 \text{COONa}+\text{
 
 Karboksyylihapot ja alkoholit voivat muodostaa keskenään voimakkaasti tuoksuvia aineita, estereitä. Reaktioon tarvitaan katalyytiksi rikkihappoa. Happomolekyylin ja alkoholimolekyylin päädyistä irtoaa ainekset vesimolekyyliin, ja loput osat molekyyleistä yhdistyvät keskenään happiatomin kautta. Lyhytketjuiset esterit ovat aromiaineita, pitkäketjuiset vahoja tai muoveja. Tuttuja tuoksuja löytyy [taulukosta](https://jameskennedymonash.files.wordpress.com/2013/12/table-of-esters-and-their-smells-v2.pdf).
 
-Esim. Etaanihapon (etikkahappo) ja etanolin reaktio:
+Esim. Etaanihapon (etikkahappo) ja etanolin reaktiossa syntyy etaanihapon etyyliesteri:
 
 ![Esterin muodostuminen](/images/esteri.png "Esterin muodostuminen")

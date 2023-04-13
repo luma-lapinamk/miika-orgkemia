@@ -58,7 +58,7 @@ Esim. Etanolin eliminaatio: $\text{CH}_3 \text{CH}_2 \text{OH} \overset{\text{H}
 
 **Kondensaatio**
 
-Alkoholimolekyylit voivat myös reagoida eliminaatioreaktion mukaisesti keskenään, jolloin reaktion nimi onkin kondensaatio. Tällöin toisen molekyylin päädystä poistuu $\text{OH}$-ryhmä ja toisesta vain vety. Loppuosat molekyyleistä yhdistyvät toisiinsa siten, että väliin jää ns. happisilta $-\text{O}-$. Alkoholit voivat olla samanlaisia tai erilaisia. Tällaisen yhdisteen yleisnimi on **eetteri**. Eettereitä käytetään mm. liuottimina kemian laboratorioissa. Lisäksi reaktiossa syntyy vettä.
+Alkoholimolekyylit voivat myös reagoida eliminaatioreaktion mukaisesti keskenään, jolloin reaktion nimi onkin kondensaatio. Tällöin toisen molekyylin päädystä poistuu $\text{OH}$-ryhmä ja toisesta vain vety. Loppuosat molekyyleistä yhdistyvät toisiinsa siten, että väliin jää ns. *happisilta* $-\text{O}-$. Alkoholit voivat olla samanlaisia tai erilaisia. Tällaisen yhdisteen yleisnimi on **eetteri**. Eettereitä käytetään mm. liuottimina kemian laboratorioissa. Lisäksi reaktiossa syntyy vettä.
 
 Eetterit nimetään siten, että loppuun tulee -eetteri, ja alkuun tulee -yyli-päätteisinä niiden hiilivetyrunkojen nimet, jotka ovat happisillan molemmin puolin. Jos alkoholit, joista eetteri muodostui, ovat samanlaisia, riittää kirjoittaa nimi yhden kerran, mutta tällöin eteen tulee liite di ilmaisemaan sitä, että molekyylin osia on kaksi kappaletta. 
 

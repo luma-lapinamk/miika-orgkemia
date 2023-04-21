@@ -76,12 +76,12 @@ $2~\text{CH}_3 \text{CH}_2 \text{OH} \overset{\text{H}_2\text{SO}_4}{\longrighta
 
 Hapettumisreaktiot ovat yleisesti reaktioita, jossa vedyn määrä molekyylissä vähenee tai hapen määrä lisääntyy. Hapetin on jokin aine, joka saa hapettumisen tapahtumaan. Esim. $\text{KMnO}_4$ (kaliumpermanganaatti) on tällainen aine. 
 
-Alkoholien hapettumisreaktion tuote riippuu siitä, millainen alkoholi on kyseessä. Primaarinen alkoholi muuttuu ensin aldehydiksi. Aldehydi on yhdiste, jossa hiiliketjun päätyhiilessä on kaksoissidoksella kiinni vety ja yksinkertaisella sidoksella vety. Aldehydin tunnistaa nimen loppupäätteestä -naali, esim. kuvassa keskellä propanaali.
+Alkoholien hapettumisreaktion tuote riippuu siitä, millainen alkoholi on kyseessä. Primaarinen alkoholi voi hapettua aldehydiksi. Aldehydi on yhdiste, jossa hiiliketjun päätyhiilessä on kaksoissidoksella kiinni happi (*karbonyyliryhmä*) ja yksinkertaisella sidoksella vety. Aldehydin tunnistaa nimen loppupäätteestä -naali, esim. kuvassa keskellä propanaali.
 
 Aldehydi voi edelleen hapettua karboksyylihapoksi. Tällöin happiatomi liittyy hiiliketjun päätyhiilen ja vedyn väliin. Karboksyylihapon tunnistaa nimen loppupäätteestä -happo. Nimen alkuosa muodostuu hiiliketjun pituuden perusteella, esimerkiksi kuvassa oikealla propaanihappo.
 
 ![Primaarisen alkoholin hapettuminen, esim.](/images/alkoholin_hapettuminen_1.png "Primaarisen alkoholin hapettuminen")
 
-Sekundaarinen alkoholi muuttuu ketoniksi. Ketoni on yhdiste, jossa hiiliketjun johonkin muuhun kuin päädyssä sijaitsevaan hiileen yhdistyy happi kaksoissidoksella. Ketonin nimen pääte on -noni, esim. kuvassa oikealla 2-propanoni.
+Sekundaarinen alkoholi voi hapettua ketoniksi. Ketoni on yhdiste, jossa hiiliketjun johonkin muuhun kuin päädyssä sijaitsevaan hiileen yhdistyy happi kaksoissidoksella. Ketonin nimen pääte on -noni, esim. kuvassa oikealla 2-propanoni.
 
 ![Sekundaarisen alkoholin hapettuminen, esim.](/images/alkoholin_hapettuminen_2.png "Sekundaarisen alkoholin hapettuminen")

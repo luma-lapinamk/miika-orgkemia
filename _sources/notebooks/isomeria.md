@@ -90,8 +90,9 @@ Molekyyleissä, joissa hiilten välillä on vain yksinkertaisia sidoksia, osa ra
 Alla olevissa esimerkeissä on kahden hiilen ja kuuden vedyn molekyyli, jota tarkastellaan päädystä katsottuna. Vasemmanpuoleisessa kuvassa vastakkaiset vedyt sijaitsevat lähes samoilla kohdilla toisiinsa nähden. Tätä kutsutaan nimellä kohdakkainen konformaatio. Oikeanpuoleisessa kuvassa vedyt levittäytyvät mahdollisimman kauas toisistaan. Muotoa kutsutaan lomittaiseksi konformaatioksi.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Newman_projection_ethane.png#/media/Tiedosto:Newman_projection_ethane.png"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Newman_projection_ethane.png" alt="Newman projection ethane.png" height="305" width="640"></a><br>By <a href="https://en.wikipedia.org/wiki/de:User:Aglarech" class="extiw" title="w:de:User:Aglarech">Aglarech</a> projektissa <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia kielellä saksa</a>; <a href="//commons.wikimedia.org/wiki/User:Leyo" title="User:Leyo">Leyo</a> - <span class="int-own-work" lang="fi">Oma teos</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=380757">Linkki</a></p>
+<br>
 
-**Esimerkki: kemian ylioppilastehtävä 5. (syksy 1998)**
+**Esimerkki:** kemian ylioppilastehtävä 5. (syksy 1998)
 
 Bentseeni ja sykloheksaani ovat kumpikin rengasrakenteisia, kuusi hiiliatomia sisältäviä hiilivetyjä. Vertaa toisiinsa näiden yhdisteiden molekyylirakenteita ja niissä tavattavia sidostyyppejä.
 
@@ -99,10 +100,8 @@ Bentseeni ja sykloheksaani ovat kumpikin rengasrakenteisia, kuusi hiiliatomia si
 >
 > Sykloheksaani C<sub>6</sub>H<sub>12</sub> on tyydyttynyt rengasrakenteinen hiilivety ja bentseeni C<sub>6</sub>H<sub>6</sub> on 6 vetyatomia vähemmän sisältävä aromaattinen hiilivety.
 >
-```{figure-md} Sykloheksaanin konformaatioisomeria
-<img src="../images/sykloheksaani.png" alt="Sykloheksaanin konformaatioisomeriaa: tuoli- ja venemuoto." class="bg-primary mb-1" width="270px" align="center">
-
-Sykloheksaanin konformaatioisomeriaa: tuoli- ja venemuoto. Venemuodossa hiiliatomeihin 1 ja 4 sitoutuneet toisiaan hylkivät vetyatomit joutuvat lähemmäs toisiaan kuin tuolimuodossa. Tästä syystä venemuoto ei ole niin stabiili kuin tuolimuoto.
-```
+>![Sykloheksaani](/images/sykloheksaani.png "Sykloheksaanin konformaatioisomeriaa: tuoli- ja venemuoto.")
 >
->Sykloheksaanin rengasrakenne muodostuu hiiliatomeista yksinkertaisin sidoksin. Hiiliatomeista lähtevät sidokset suuntautuvat tetraedrimäisesti, joten sidoskulmat ovat noin 109.5 °. Tästä syystä sykloheksaanirengas ei ole tasomainen, toisin kuin keskimmäiseen kuvaan on piirretty. Yksinkertaisessa C–C-sidoksessa hiiliatomit pääsevät kiertymään sidosakselin ympäri, minkä seurauksena hiiliketju voi asettua eri konformaatioihin. Näin on myös sykloheksaanissa, jossa kuitenkin rengas rajoittaa kiertymistä osittain. Sykloheksaanin tärkeimmät konformaatiot ovat tuoli- ja venemuoto, joista tuolimuoto on energeettisesti edullisempi.
+> Sykloheksaanilla esintyy kahta konformaatioisomerian muotoa: tuoli- ja venemuotoa. Venemuodossa hiiliatomeihin 1 ja 4 sitoutuneet toisiaan hylkivät vetyatomit joutuvat lähemmäs toisiaan kuin tuolimuodossa. Tästä syystä venemuoto ei ole niin stabiili kuin tuolimuoto. Kuvan lähde: [Lahden yhteiskoulu](https://www.lyk.fi/yokemia/yo98s.html)
+>
+>Sykloheksaanin rengasrakenne muodostuu hiiliatomeista yksinkertaisin sidoksin. Hiiliatomeista lähtevät sidokset suuntautuvat tetraedrimäisesti, joten sidoskulmat ovat noin 109.5°. Tästä syystä sykloheksaanirengas ei ole tasomainen, toisin kuin keskimmäiseen kuvaan on piirretty. Yksinkertaisessa C–C-sidoksessa hiiliatomit pääsevät kiertymään sidosakselin ympäri, minkä seurauksena hiiliketju voi asettua eri konformaatioihin. Näin on myös sykloheksaanissa, jossa kuitenkin rengas rajoittaa kiertymistä osittain. Sykloheksaanin tärkeimmät konformaatiot ovat tuoli- ja venemuoto, joista tuolimuoto on energeettisesti edullisempi.

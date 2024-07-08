@@ -36,7 +36,7 @@ Veden liittyminen noudattaa enimmäkseen **Markovnikovin sääntöä**: vety lii
 
 Esim. Kun vettä liittyy 1-propeeniin, niin vety liittyy todennäköisemmin päätyhiileen, jossa vetyjä on kaksi (neliöllä merkityt), kuin keskimmäiseen hiileen, jossa on vain yksi vety (ympyröity). Tuloksena on siis todennäköisemmin keskimmäisen kuvan yhdiste. Myös oikeanpuoleinen yhdiste on mahdollinen.
 
-![Additio, esim. 3](/images/additio2.png "Additio, esim. 3")
+![Additio, esim. 3](/images/additio3.png "Additio, esim. 3")
 
 **Alkeenien hapettuminen**
 

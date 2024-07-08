@@ -12,7 +12,7 @@ Isomeriaa on kahta tyyppiä, joista kumpikin voidaan jakaa kolmeen luokkaan:
 
 Rakenneisomeria tarkoittaa rakennekaavojen eroavaisuuksia kahdessa ulottuvuudessa. Rakenneisomeria liittyy joko yhdisteen hiiliketjuun, atomien tai sidosten paikkoihin molekyylissä, tai niin sanottujen funktionaalisten ryhmien esiintymiseen.
 
-**Runkoisomeria**
+### Runkoisomeria
 
 Runkoisomeria tarkoittaa sitä, että molekyylien hiilivetyrunko on erilainen. Se voi olla suora tai haarautunut, ja joskus hiilet voivat muodostaa renkaitakin. 
 
@@ -30,7 +30,7 @@ Taulukossa on näiden isomeerien ominaisuuksia. Moolimassa on sama, koska kumpik
 |sulamispiste|-56.8$^{\circ}$ C|-107$^{\circ}$ C|
 |kiehumispiste|126$^{\circ}$ C|99$^{\circ}$ C|
  
-**Paikkaisomeria**
+### Paikkaisomeria
 
 Paikkaisomeriassa jonkin molekyylissä olevan atomin tai kaksois- tai kolmoissidoksen paikka eroaa. Atomin tai sidoksen paikka hiiliketjun päästä laskettuna ilmaistaan molekyylin nimessä numerolla.  Myös paikkaisomeerien molekyylikaavat ja siten myös moolimassat ovat samat, mutta fysikaalisissa ominaisuuksissa voi olla eroja.
 
@@ -42,7 +42,7 @@ Alla olevassa esimerkissä nimi buteeni tarkoittaa neljän hiilen ketjua, jossa 
 
 ![Paikkaisomeria, esim. 2](/images/buteenit.png "Paikkaisomeria, esim. 2")
 
-**Funktioisomeria**
+### Funktioisomeria
 
 Funktioisomeriassa jotkin molekyylin atomeista ovat järjestäytyneet tietynlaiseksi ryhmäksi, joka vaikuttaa merkittävästi yhdisteen kemialliseen käyttäytymiseen. Kyse on siis paikkaisomerian erikoistapauksesta. Funktioisomeereillä on suuret erot kemiallisissa reaktioissa ja mm. kiehumispisteissä, ja ne myös nimetään eri periaatteilla. Myöhemmin käsitellään erilaisia funktionaalisia ryhmiä tarkemmin.
 
@@ -63,7 +63,7 @@ Kuvan vasemmanpuoleisessa molekyylissä (1-propanoli) happi on asettunut molekyy
 
 Stereoisomeria erottelee rakennekaavojen erilaisia versioita ja ottaa huomioon myös sen, että vaikka rakennekaavat yleensä piirretään tasokuvioina, niin molekyylit ovat todellisuudessa kolmiulotteisia.
 
-**Cis-trans-isomeria**
+### Cis-trans-isomeria
 
 Cis-trans-isomeriaa esiintyy molekyyleissä, joissa on vähintään yksi kaksoissidos. Kaksoissidoksen hiilissä olevat atomit tai atomiryhmät voivat olla samalla (nimen etuliite cis) tai eri puolella (nimen etuliite trans) kaksoissidosta. Tällainenkin isomerian muoto voi vaikuttaa aineen fysikaalisiin ominaisuuksiin.
 
@@ -73,7 +73,7 @@ Esimerkkinä vielä rasvahappo (pitkäketjuinen karboksyylihappo) nimeltä oleii
 
 ![oleiinihappo, esim.](/images/oleiininappo.png "Oleiinihapon cis- ja trans-muodot, esim.")
 
-**Optinen isomeria**
+### Optinen isomeria
 
 Optisessa isomeriassa rakenteet ovat toistensa peilikuvia. Molekyylistä löytyy tällöin hiili, jota nimitetään kiraliakeskukseksi. Tällaiseen hiileen on sitoutunut neljä erilaista ryhmää tai atomia. Alla olevassa esimerkissä, jossa on maitohappomolekyylin optiset isomeeerit, paksu sidosviiva tarkoittaa "kohti lukijaa" suuntautuvaa molekyylin osaa, ja katkoviiva tarkoittaa "poispäin lukijasta" suuntautuvaa molekyylin osaa. Ravinnossa (esim. hapanmaitotuotteet ja hapankaali) esiintyy D-maitohappoa, mutta ihmisen lihaksessa kovassa rasituksessa kehittyvä maitohappo on L-maitohappoa. 
 
@@ -81,12 +81,28 @@ Optisessa isomeriassa rakenteet ovat toistensa peilikuvia. Molekyylistä löytyy
 
 Esimerkiksi lääkkeitä valmistettaessa samassa prosessissa voi muodostua kumpaakin versiota molekyylistä. Joskus eri isomeerien toiminta poikkeaa toisistaan dramaattisesti ja lääkeaine saattaakin toimia haitallisesti, esimerkiksi [talidomidikatastrofin](https://fi.wikipedia.org/wiki/Talidomidi) tapauksessa.
 
-**Konformaatioisomeria**
+### Konformaatioisomeria
 
-Molekyyleissä, joissa hiilten välillä on vain yksinkertaisia sidoksia, osa rakenteesta voi kiertyä eri asentoihin. Molekyyli voi vaihtaa asentoaan eri muotojen välillä ilman, että molekyylin sidokset katkeavat. Molekyyli ei voi kiertyä kaksois- tai kolmossidoksen ympäri. 
+Molekyyleissä, joissa hiilten välillä on vain yksinkertaisia sidoksia, osa rakenteesta voi kiertyä eri asentoihin. Molekyyli voi vaihtaa asentoaan eri muotojen välillä ilman, että molekyylin sidokset katkeavat. Molekyyli ei voi kiertyä kaksois- tai kolmossidoksen ympäri.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Ethane_conformation.gif#/media/Tiedosto:Ethane_conformation.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ethane_conformation.gif" alt="Ethane conformation.gif" height="200" width="267"></a><br>By <a rel="nofollow" class="external free" href="mailto:ralf@ark.in-berlin.de">mailto:ralf@ark.in-berlin.de</a> - <span class="int-own-work" lang="fi">Oma teos</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1563050">Linkki</a></p>
 
 Alla olevissa esimerkeissä on kahden hiilen ja kuuden vedyn molekyyli, jota tarkastellaan päädystä katsottuna. Vasemmanpuoleisessa kuvassa vastakkaiset vedyt sijaitsevat lähes samoilla kohdilla toisiinsa nähden. Tätä kutsutaan nimellä kohdakkainen konformaatio. Oikeanpuoleisessa kuvassa vedyt levittäytyvät mahdollisimman kauas toisistaan. Muotoa kutsutaan lomittaiseksi konformaatioksi.
 
-![Konformaatioisomeria, esim.](/images/konformaatiot.png "Konformaatioisomeria, esim.")
+<p><a href="https://commons.wikimedia.org/wiki/File:Newman_projection_ethane.png#/media/Tiedosto:Newman_projection_ethane.png"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Newman_projection_ethane.png" alt="Newman projection ethane.png" height="305" width="640"></a><br>By <a href="https://en.wikipedia.org/wiki/de:User:Aglarech" class="extiw" title="w:de:User:Aglarech">Aglarech</a> projektissa <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia kielellä saksa</a>; <a href="//commons.wikimedia.org/wiki/User:Leyo" title="User:Leyo">Leyo</a> - <span class="int-own-work" lang="fi">Oma teos</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=380757">Linkki</a></p>
 
-Kuva: [Wikipedia](https://commons.wikimedia.org/wiki/File:Newman_projection_ethane.png)
+**Esimerkki: kemian ylioppilastehtävä 5. (syksy 1998)**
+
+Bentseeni ja sykloheksaani ovat kumpikin rengasrakenteisia, kuusi hiiliatomia sisältäviä hiilivetyjä. Vertaa toisiinsa näiden yhdisteiden molekyylirakenteita ja niissä tavattavia sidostyyppejä.
+
+> **Ratkaisu, keskitytään vain sykloheksaaniin**
+>
+> Sykloheksaani C<sub>6</sub>H<sub>12</sub> on tyydyttynyt rengasrakenteinen hiilivety ja bentseeni C<sub>6</sub>H<sub>6</sub> on 6 vetyatomia vähemmän sisältävä aromaattinen hiilivety.
+>
+```{figure-md} Sykloheksaanin konformaatioisomeria
+<img src="../images/sykloheksaani.png" alt="Sykloheksaanin konformaatioisomeriaa: tuoli- ja venemuoto." class="bg-primary mb-1" width="270px" align="center">
+
+Sykloheksaanin konformaatioisomeriaa: tuoli- ja venemuoto. Venemuodossa hiiliatomeihin 1 ja 4 sitoutuneet toisiaan hylkivät vetyatomit joutuvat lähemmäs toisiaan kuin tuolimuodossa. Tästä syystä venemuoto ei ole niin stabiili kuin tuolimuoto.
+```
+>
+>Sykloheksaanin rengasrakenne muodostuu hiiliatomeista yksinkertaisin sidoksin. Hiiliatomeista lähtevät sidokset suuntautuvat tetraedrimäisesti, joten sidoskulmat ovat noin 109.5 °. Tästä syystä sykloheksaanirengas ei ole tasomainen, toisin kuin keskimmäiseen kuvaan on piirretty. Yksinkertaisessa C–C-sidoksessa hiiliatomit pääsevät kiertymään sidosakselin ympäri, minkä seurauksena hiiliketju voi asettua eri konformaatioihin. Näin on myös sykloheksaanissa, jossa kuitenkin rengas rajoittaa kiertymistä osittain. Sykloheksaanin tärkeimmät konformaatiot ovat tuoli- ja venemuoto, joista tuolimuoto on energeettisesti edullisempi.

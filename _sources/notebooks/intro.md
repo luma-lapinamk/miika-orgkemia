@@ -1,4 +1,4 @@
-# Johdantoa!!! :D
+# Johdantoa
 
 Tämä sivusto sisältää perusasioita orgaanisesta eli hiileen perustuvasta kemiasta. Sellunjalostus on esimerkki prosessista, jossa tarvitaan hyvinkin syvällistä osaamista orgaanisen kemian yhdisteistä ja reaktioista. Oppimateriaali sopii lisälukemiseksi ja tukimateriaaliksi kyseisen aiheen opiskeluun.
 

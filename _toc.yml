@@ -1,0 +1,27 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: notebooks/intro
+parts:
+   - caption: Hiilen kemiaa
+     chapters:
+     - file: notebooks/hiili
+     - file: notebooks/mallit
+     - file: notebooks/isomeria
+     - file: notebooks/funktionaaliset
+   - caption: Hiilivetyjä
+     chapters:
+     - file: notebooks/hiilivedyt
+     - file: notebooks/alkaanit
+     - file: notebooks/alkeenit
+   - caption: Muita yhdisteitä
+     chapters:
+     - file: notebooks/alkoholit
+     - file: notebooks/karboksyylihapot
+     - file: notebooks/aromaattiset
+     - file: notebooks/hiilihydraatit
+   - caption: Puun kemiaa
+     chapters:
+     - file: notebooks/puun_rakenne
+     - file: notebooks/puun_yhdisteet

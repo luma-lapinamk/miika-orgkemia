@@ -1,6 +1,6 @@
 # Karboksyylihapot
 
-Karboksyylihappojen funktionaalinen ryhmä on $-\text{COOH}$. Yksi happi on kiinni hiiliketjun päätyhiilessä kaksoissidoksella $-\text{C}=\text{O}$, ja lisäksi päätyhiileen on kiinnittynyt yksinkertaisella sidoksella happi ja siihen puolestaan vety, siis rakenne on $-\text{C}-\text{O}-\text{H}$.
+Karboksyylihappojen funktionaalinen ryhmä on $-\text{COOH}$. Yksi happi on kiinni hiiliketjun päätyhiilessä kaksoissidoksella $-\text{C}=\text{O}$, ja lisäksi päätyhiileen on kiinnittynyt yksinkertaisella sidoksella happi ja siihen puolestaan vety, siis rakenne on $-\text{C}-\text{O}-\text{H}$. 
 
 Karboksyylihapot nimetään lisäämällä hiilirunkoa vastaavan nimen perään –happo. Jos happoryhmiä on useampi kuin yksi, niiden lukumäärä ilmaistaan etuliitteellä. Monilla hapoilla on myös erityisnimet, esimerkiksi sitruunahappo, voihappo tai muurahaishappo. Monimutkaisista happomolekyyleistä ei juuri muita nimityksiä käytetäkään. Erityisnimiä englanniksi löytyy kattavasti [täältä](https://jameskennedymonash.files.wordpress.com/2014/11/common-names-of-carboxylic-acids.png).
 

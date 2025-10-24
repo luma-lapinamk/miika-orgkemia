@@ -1,6 +1,6 @@
 # Johdantoa
 
-Tämä sivusto sisältää perusasioita orgaanisesta eli hiileen perustuvasta kemiasta. Sellunjalostus on esimerkki prosessista, jossa tarvitaan hyvinkin syvällistä osaamista orgaanisen kemian yhdisteistä ja reaktioista. Oppimateriaali sopii lisälukemiseksi ja tukimateriaaliksi kyseisen aiheen opiskeluun.
+Tämä sivusto sisältää perusasioita orgaanisesta eli hiileen perustuvasta kemiasta. Sellunjalostus on esimerkki prosessista, jossa tarvitaan hyvinkin syvällistä osaamista orgaanisen kemian yhdisteistä ja reaktioista. Oppimateriaali sopii lisälukemiseksi ja tukimateriaaliksi kyseisen aiheen opiskeluun. 
 
 Sivustolla perehdytään siihen, millaisia yhdisteitä hiilestä voi muodostua toisten hiilten ja muiden alkuaineiden kanssa. Tutustutaan siihen, miten näitä yhdisteitä esitetään rakennekaavoina ja nimetään. Lisäksi tarkastellaan muutamaa yhdisteiden perustyyppiä ja niiden tavallisimpia reaktioita.
 

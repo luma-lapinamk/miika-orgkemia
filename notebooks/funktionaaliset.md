@@ -1,6 +1,6 @@
 # Funktionaaliset ryhmät
 
-Orgaaniset yhdisteet käyttäytyvät eri tavoilla riippuen siitä, mitä atomeja molekyylin hiilestä ja vedyistä koostuvaan runkoon liittyy ja miten atomit ovat molekyyliin sijoittuneet. Hiilivetyrunkoon liittyneitä atomeja tai atomiryhmiä kutsutaan funktionaalisiksi ryhmiksi. Myös kaksois- ja kolmossidokset lasketaan funktionaalisiksi ryhmiksi. Samassa molekyylissä voi olla monta eri funktionaalista ryhmää.
+Orgaaniset yhdisteet käyttäytyvät eri tavoilla riippuen siitä, mitä atomeja molekyylin hiilestä ja vedyistä koostuvaan runkoon liittyy ja miten atomit ovat molekyyliin sijoittuneet. Hiilivetyrunkoon liittyneitä atomeja tai atomiryhmiä kutsutaan funktionaalisiksi ryhmiksi. Myös kaksois- ja kolmossidokset lasketaan funktionaalisiksi ryhmiksi. Samassa molekyylissä voi olla monta eri funktionaalista ryhmää. 
 
 Funktionaalinen ryhmä vaikuttaa merkittävästi siihen, miten yhdiste reagoi muiden yhdisteiden kanssa. Reaktioihin vaikuttavat funktionaalisen ryhmän lisäksi myös molekyylien rakenne ja reaktion olosuhteet (liuotin, lämpötila, paine, mahdolliset muut aineet...).
 

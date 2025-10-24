@@ -1,6 +1,6 @@
 # Rakennekaavat ja isomeria
 
-Edellä todettiin, että sama molekyylikaava voi vastata useampaa kuin yhtä rakennekaavaa. Yhdisteet, joissa on täsmälleen samat atomit, mutta eri järjestyksessä, ovat toistensa isomeerejä. Isomerialla on erittäin suuri merkitys siihen, miten molekyyli reagoi kemiallisesti ja miten se käyttäytyy fysikaalisesti.
+Edellä todettiin, että sama molekyylikaava voi vastata useampaa kuin yhtä rakennekaavaa. Yhdisteet, joissa on täsmälleen samat atomit, mutta eri järjestyksessä, ovat toistensa isomeerejä. Isomerialla on erittäin suuri merkitys siihen, miten molekyyli reagoi kemiallisesti ja miten se käyttäytyy fysikaalisesti. 
 
 Isomeriaan kuuluu myös atomien erilaiset mahdollisuudet sijoittua molekyyliin kolmiulotteisessa tilassa. Molekyylin rakenne kolmessa ulottuvuudessa vaikuttaa esimerkiksi lääkeaineiden toimivuuteen. Kolmiulotteisen rakenteen tarkka mallinnus on vaativaa ja tehdään erityisillä tietokoneohjelmilla. 
 

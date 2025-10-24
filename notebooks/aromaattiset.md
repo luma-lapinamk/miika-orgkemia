@@ -1,6 +1,6 @@
 # Aromaattiset yhdisteet
 
-Hiilet voivat muodostaa kuuden hiilen rengasrakenteen, jossa hiilten välisten sidosten tyyppi ei ole aivan selkeä. Sidoselektronit eivät ole kiinteästi jakautuneet yksinkertaisiin sidoksiin tai kaksoissidoksiin, vaan ne on jaettu yhteisesti kaikille renkaan hiilille. Tällaista rakennetta kutsutaan bentseenirenkaaksi. Rakenne piirretään joko siten, että joka toinen hiilten välinen sidos on yksinkertainen sidos ja joka toinen kaksoissidos, tai siten, että kaikki sidokset korvataan ympyrällä. Erilaisia esitysmuotoja on seuraavassa kuvassa.
+Hiilet voivat muodostaa kuuden hiilen rengasrakenteen, jossa hiilten välisten sidosten tyyppi ei ole aivan selkeä. Sidoselektronit eivät ole kiinteästi jakautuneet yksinkertaisiin sidoksiin tai kaksoissidoksiin, vaan ne on jaettu yhteisesti kaikille renkaan hiilille. Tällaista rakennetta kutsutaan bentseenirenkaaksi. Rakenne piirretään joko siten, että joka toinen hiilten välinen sidos on yksinkertainen sidos ja joka toinen kaksoissidos, tai siten, että kaikki sidokset korvataan ympyrällä. Erilaisia esitysmuotoja on seuraavassa kuvassa. 
 
 ![Bentseeni](/images/bentseeni.png "Bentseeni")
 

@@ -1,6 +1,6 @@
 # Puuaineksen rakenne
 
-Kemiallisena yhdisteinä puussa on eniten hiilihydraatteja, tarkemmin hemiselluloosaa ja selluloosaa. Lisäksi puuaineksessa on ligniiniä, uuteaineita (pihkaa) sekä pieniä määriä kivennäisaineita (tuhkaa, noin 0.5 %). Aineet jakaantuvat soluseinän komponentteihin ja uuteaineisiin oheisen kaavion mukaisesti.
+Kemiallisena yhdisteinä puussa on eniten hiilihydraatteja, tarkemmin hemiselluloosaa ja selluloosaa. Lisäksi puuaineksessa on ligniiniä, uuteaineita (pihkaa) sekä pieniä määriä kivennäisaineita (tuhkaa, noin 0.5 %). Aineet jakaantuvat soluseinän komponentteihin ja uuteaineisiin oheisen kaavion mukaisesti. 
 
 ![Puun sisältämiä yhdisteitä](/images/puun_aineet.png "Puun sisältämiä yhdisteitä")
 

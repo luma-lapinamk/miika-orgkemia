@@ -1,6 +1,6 @@
 # Alkaanit
 
-Alkaanit ovat hiilivetyjä, joissa hiilten välillä on vain yksinkertaisia sidoksia. Siksi niitä kutsutaan myös tyydyttyneiksi hiilivedyiksi. Alkaanit eroavat toisistaan hiilten ja vetyjen määrän perusteella. Hiilistä muodostunut runko voi olla muodoltaan suora, haarautunut tai rengasrakenteinen.
+Alkaanit ovat hiilivetyjä, joissa hiilten välillä on vain yksinkertaisia sidoksia. Siksi niitä kutsutaan myös tyydyttyneiksi hiilivedyiksi. Alkaanit eroavat toisistaan hiilten ja vetyjen määrän perusteella. Hiilistä muodostunut runko voi olla muodoltaan suora, haarautunut tai rengasrakenteinen. 
 
 Avoketjuisille hiilivedyille, joissa hiilistä ei muodostu rengasta, voidaan aina määrittää molekyylikaava. Jos hiiliketjussa on $n$ hiiltä, niin ketjun keskiosassa on $n-2$ hiiltä ja kummassakin päässä yksi. Päätyhiiliin mahtuu kumpaankin 3 vetyä, ja keskiosan hiiliin jokaiseen kaksi. Tällöin vetyjen määrä on $2\cdot 3+(n-2)\cdot 2=6+2n-4=2n+2$. 
 
@@ -15,11 +15,11 @@ Alkaanien poolisuus on hyvin alhainen. Niinpä ne eivät liukene veteen juuri ol
 |propaani|$\text{C}_3\text{H}_8$|-188 $^{\circ}$C|-42 $^{\circ}$C|i|vs|
 |butaani|$\text{C}_4\text{H}_{10}$|-138 $^{\circ}$C|-0.5 $^{\circ}$C|i|s|
 
-Edellisestä taulukosta nähdään, että aineen kiehumispiste on sitä korkeampi, mitä enemmän yhdisteessä on hiiltä ja samalla myös vetyä. Yleisestikin saman yhdistetyypin sisällä kiehumispiste on sitä korkeampi, mitä suurempi molekyyli on kyseessä. Tämä johtuu siitä, että suurissa molekyyleissä on enemmän pinta-alaa, jolla ne voivat tarttua kiinni toisiin molekyyleihin. 
+Edellisestä taulukosta nähdään, että aineen kiehumispiste on sitä korkeampi, mitä enemmän yhdisteessä on hiiltä ja samalla myös vetyä. Yleisestikin saman yhdistetyypin sisällä kiehumispiste on sitä korkeampi, mitä suurempi molekyyli on kyseessä. Tämä johtuu siitä, että suurissa molekyyleissä on enemmän pinta-alaa, jolla ne voivat tarttua kiinni toisiin molekyyleihin.
 
 ## Alkaanien reaktioita
 
-Alkaanien perusreaktioita ovat palaminen ja substituutio. Alkaanin palamista tapahtuu esimerkiksi kesällä nestekaasulla grillatessa. Substituutio tarkoittaa korvautumista: yksi tai useampi alkaanin vedyistä korvautuu jollakin muulla alkuaineella.
+Alkaanien perusreaktioita ovat palaminen ja substituutio. Alkaanin palamista tapahtuu esimerkiksi kesällä nestekaasulla grillatessa. Substituutio tarkoittaa korvautumista: yksi tai useampi alkaanin vedyistä korvautuu jollakin muulla alkuaineella. 
 
 **Palaminen**
 

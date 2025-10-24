@@ -1,11 +1,11 @@
 # Puun yhdisteitä
 
-Puuraaka-aineesta suurin osa on kemialliselta luonteeltaan hiilihydraatteja. Näistä hiilihydraateista puunjalostuksessa pyritään keräämään talteen selluloosaa. Puussa on myös erilaisia ns. uuteaineita, joiden kemiallinen koostumus vaihtelee. 
+Puuraaka-aineesta suurin osa on kemialliselta luonteeltaan hiilihydraatteja. Näistä hiilihydraateista puunjalostuksessa pyritään keräämään talteen selluloosaa. Puussa on myös erilaisia ns. uuteaineita, joiden kemiallinen koostumus vaihtelee.
 
 
 ## Puun hiilihydraatit
 
-Puut pystyvät tuottamaan hiilihydraatteja, lähinnä glukoosia, fotosynteesin avulla. Hiilidioksidista ja vedestä muodostuu auringon energian avulla lehtien ja neulasten viherhiukkasissa glukoosia. Muodostuva glukoosi kulkeutuu nilatiehyitä myöten jälsisolukkoon. Jälsisolukon soluissa glukoosista muodostuu selluloosaa, hemiselluloosaa tai ligniiniä, jotka sitten muuttuvat soluseinän rakenteiksi. 
+Puut pystyvät tuottamaan hiilihydraatteja, lähinnä glukoosia, fotosynteesin avulla. Hiilidioksidista ja vedestä muodostuu auringon energian avulla lehtien ja neulasten viherhiukkasissa glukoosia. Muodostuva glukoosi kulkeutuu nilatiehyitä myöten jälsisolukkoon. Jälsisolukon soluissa glukoosista muodostuu selluloosaa, hemiselluloosaa tai ligniiniä, jotka sitten muuttuvat soluseinän rakenteiksi.
 
 **Selluloosa**
 

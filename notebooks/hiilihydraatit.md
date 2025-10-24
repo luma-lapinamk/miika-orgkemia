@@ -1,6 +1,6 @@
 # Hiilihydraatit
 
-Hiilihydraatit ovat orgaanisia yhdisteitä, jotka koostuvat hiilestä, vedystä ja hapesta. Niiden molekyylikaava on muotoa $\text{C}_m (\text{H}_2 \text{O})_n$ eli ne voidaan aina esittää $m$ kappaleena hiiliä ja $n$ kappaleena vesimolekyylejä. Hiilihydraateissa on funktionaalisina ryhminä $\text{OH}$-ryhmiä (kuten alkoholeissa) ja happisiltoja (kuten eettereissä). Hiilihydraattien hiilivetyrunko voi sisältää rengasmaisia rakenteita.
+Hiilihydraatit ovat orgaanisia yhdisteitä, jotka koostuvat hiilestä, vedystä ja hapesta. Niiden molekyylikaava on muotoa $\text{C}_m (\text{H}_2 \text{O})_n$ eli ne voidaan aina esittää $m$ kappaleena hiiliä ja $n$ kappaleena vesimolekyylejä. Hiilihydraateissa on funktionaalisina ryhminä $\text{OH}$-ryhmiä (kuten alkoholeissa) ja happisiltoja (kuten eettereissä). Hiilihydraattien hiilivetyrunko voi sisältää rengasmaisia rakenteita. 
 
 Kuvassa esimerkkinä hiilihydraateista on maidossa esiintyvä sokeri, laktoosi. Sen molekyylikaava on $\text{C}_{12} \text{H}_{22} \text{O}_{11}$, toisin merkittynä $\text{C}_{12} (\text{H}_2 \text{O})_{11}$.
 

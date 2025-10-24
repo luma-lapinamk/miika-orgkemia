@@ -1,6 +1,6 @@
 # Luokittelu ja nimeäminen
 
-Hiilivedyt ovat yksinkertaisimpia orgaanisia yhdisteitä, koska niissä on vain kahta alkuainetta, hiiltä ja vetyä. Kivihiili, öljy, bensiini ja maakaasu koostuvat pääasiassa hiilivedyistä. Hiilivetyjä käytetään myös kemianteollisuudessa prosessien raaka-aineina ja liuottimina.
+Hiilivedyt ovat yksinkertaisimpia orgaanisia yhdisteitä, koska niissä on vain kahta alkuainetta, hiiltä ja vetyä. Kivihiili, öljy, bensiini ja maakaasu koostuvat pääasiassa hiilivedyistä. Hiilivetyjä käytetään myös kemianteollisuudessa prosessien raaka-aineina ja liuottimina. 
 
 Hiilivetyjä, joissa hiilien välillä on vain yksinkertaisia sidoksia, kutsutaan yleisesti nimellä **alkaani**. Jos molekyylissä on ainakin yksi kaksoissidos, se on yleisnimeltään **alkeeni**, ja jos siinä on ainakin yksi kolmoissidos, se on **alkyyni**.
 

@@ -1,6 +1,6 @@
 # Orgaanisen kemiat mallit
 
-Hiilen yhdisteitä kuvataan kemiassa molekyylikaavoilla tai rakennekaavoilla. Rakennekaava voidaan esittää myös yksinkertaistetussa muodossa eli viivakaavana. Molekyylikaava sisältää ainoastaan tiedon siitä, montako kappaletta mitäkin alkuainetta molekyyli sisältää. Esim. $\text{C}_3 \text{H}_6$ sisältää kolme hiiltä ja kuusi vetyä.
+Hiilen yhdisteitä kuvataan kemiassa molekyylikaavoilla tai rakennekaavoilla. Rakennekaava voidaan esittää myös yksinkertaistetussa muodossa eli viivakaavana. Molekyylikaava sisältää ainoastaan tiedon siitä, montako kappaletta mitäkin alkuainetta molekyyli sisältää. Esim. $\text{C}_3 \text{H}_6$ sisältää kolme hiiltä ja kuusi vetyä. 
 
 Molekyylikaavasta ei välttämättä voi päätellä sitä, millaisia sidoksia atomien välillä on tai missä järjestyksessä atomit ovat. On kuitenkin olemassa vakiintuneita käytänteitä siitä, missä järjestyksessä atomit kirjoitetaan molekyylikaavaan. Esimerkiksi alkoholeihin kuuluu tiettyyn kohtaan molekyyliä vedyn ja hapen yhdistelmä $\text{OH}$, joka kirjoitetaan molekyylikaavan loppuun, kuten  $\text{C}_4 \text{H}_9 \text{OH}$. Lisäksi atomien keskinäisistä määristä voidaan päätellä, onko yhdisteessä mahdollista olla esim. kaksois- tai kolmoissidoksia.
 

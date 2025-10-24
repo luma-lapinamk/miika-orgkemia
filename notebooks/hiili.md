@@ -1,6 +1,6 @@
 # Hiilen kemiaa
 
-Orgaanisessa kemiassa yhdisteet ovat sellaisia molekyylejä, joiden rakenteeseen kuuluu oleellisesti hiili. Hiilestä muodostuu molekyylin runko, ja hiiliä voi olla hyvinkin paljon. Orgaaninen kemia on alun perin ajateltu pelkästään elollisiin olioihin liittyväksi "luonnon kemiaksi", mutta orgaanisia yhdisteitä tehdään paljon myös laboratoriossa, synteettisesti. Esimerkiksi särkylääkkeenä toimiva aspiriini on halvempaa valmistaa laboratoriossa kuin kerätä luonnosta.
+Orgaanisessa kemiassa yhdisteet ovat sellaisia molekyylejä, joiden rakenteeseen kuuluu oleellisesti hiili. Hiilestä muodostuu molekyylin runko, ja hiiliä voi olla hyvinkin paljon. Orgaaninen kemia on alun perin ajateltu pelkästään elollisiin olioihin liittyväksi "luonnon kemiaksi", mutta orgaanisia yhdisteitä tehdään paljon myös laboratoriossa, synteettisesti. Esimerkiksi särkylääkkeenä toimiva aspiriini on halvempaa valmistaa laboratoriossa kuin kerätä luonnosta. 
 
 Hiiliyhdisteitä luokitellaan sen mukaan, mitä muita alkuaineita molekyylissä on, ja miten ne ovat molekyyliin järjestäytyneet. Tuttuja hiiliyhdisteistä koostuvia aineita ovat mm. 
 

@@ -12,7 +12,7 @@ Alkoholien kiehumispiste on sitä korkeampi, mitä suurempi molekyyli on kyseess
 |etanoli|$\text{C}_2\text{H}_5\text{OH}$|-114 $^{\circ}$C|78 $^{\circ}$C|
 |1-propanoli|$\text{C}_3\text{H}_7\text{OH}$|-126 $^{\circ}$C|97 $^{\circ}$C|
 |2-propanoli|$\text{C}_3\text{H}_7\text{OH}$|-90 $^{\circ}$C|82 $^{\circ}$C|
-|1-butanoli|$\text{C}_4\text{H}_9\text{OH}$|-90, $^{\circ}$C|118 $^{\circ}$C|
+|1-butanoli|$\text{C}_4\text{H}_9\text{OH}$|-90 $^{\circ}$C|118 $^{\circ}$C|
 
 Alkoholit nimetään lisäämällä hiilivetyketjun nimen perään -oli. Jos $\text{OH}$-ryhmä ei ole hiiliketjun jommassakummassa päädyssä, niin sen paikka ilmaistaan numerolla.
 

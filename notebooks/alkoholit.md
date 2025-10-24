@@ -1,8 +1,10 @@
 # Alkoholit
 
-Alkoholeissa funktionaalisena ryhmänä on $\text{OH}$, joka on kiinnittynyt johonkin sellaiseen hiileen, joka on kiinni toisessa hiilessä yksinkertaisella sidoksella. Tarkemmin sanottuna hiilessä on kiinni happi, ja hapessa on kiinni vety.
+Alkoholeissa funktionaalisena ryhmänä on hydroksyylityhmä eli $\text{OH}$-ryhmä, joka on kiinnittynyt johonkin sellaiseen hiileen, joka on kiinni toisessa hiilessä yksinkertaisella sidoksella. Tarkemmin sanottuna hiilessä on kiinni happi, ja hapessa on kiinni vety.
 
-Alkoholin $\text{OH}$-ryhmä tekee molekyylistä lievästi poolisen, joten alkoholimolekyylit sitoutuvat toisiinsa tiukemmin kuin vastaavan kokoiset hiilivetymolekyylit. Siksi alkoholien kiehumispisteet ovat huomattavasti korkeammat kuin hiilivetyjen. Myös alkoholien kiehumispiste on sitä korkeampi, mitä suurempi molekyyli on kyseessä. Lyhytketjuiset alkoholit liukenevat sekä veteen että orgaanisiin liuottimiin. Taulukon tiedot ovat peräisin [taulukot.com](https://www.taulukot.com/kemia/orgaanisetaineet/) -sivustolta.
+Alkoholien $\text{OH}$-ryhmä tekee niistä poolisia molekyylejä. Lyhytketjuiset alkoholit liukenevat sekä veteen että orgaanisiin liuottimiin. Alkoholimolekyylit pystyvät muodostamaan vetysidoksia keskenään ja toisten poolisten molekyylien kanssa (esim. veden kanssa) ja täten sitoutuvat toisiinsa tiukemmin kuin vastaavan kokoiset hiilivetymolekyylit. Siksi alkoholien kiehumispisteet ovat huomattavasti korkeammat kuin hiilivetyjen.
+
+Alkoholien kiehumispiste on sitä korkeampi, mitä suurempi molekyyli on kyseessä, koska pitempi hiiliketju muodostaa voimakkaampia dispersiovoimia. Taulukon tiedot ovat peräisin [taulukot.com](https://www.taulukot.com/kemia/orgaanisetaineet/) -sivustolta.
 
 |nimi|molekyylikaava|sulamispiste|kiehumispiste|
 |----|--------------|------------|--------------|
@@ -10,6 +12,7 @@ Alkoholin $\text{OH}$-ryhmä tekee molekyylistä lievästi poolisen, joten alkoh
 |etanoli|$\text{C}_2\text{H}_5\text{OH}$|-114 $^{\circ}$C|78 $^{\circ}$C|
 |1-propanoli|$\text{C}_3\text{H}_7\text{OH}$|-126 $^{\circ}$C|97 $^{\circ}$C|
 |2-propanoli|$\text{C}_3\text{H}_7\text{OH}$|-90 $^{\circ}$C|82 $^{\circ}$C|
+|1-butanoli|$\text{C}_4\text{H}_9\text{OH}$|-90, $^{\circ}$C|118 $^{\circ}$C|
 
 Alkoholit nimetään lisäämällä hiilivetyketjun nimen perään -oli. Jos $\text{OH}$-ryhmä ei ole hiiliketjun jommassakummassa päädyssä, niin sen paikka ilmaistaan numerolla.
 

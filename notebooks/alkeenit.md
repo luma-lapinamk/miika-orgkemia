@@ -16,7 +16,7 @@ Additioreaktiossa kaksoissidos purkautuu, ja hiilirunkoon liittyy entisen kaksoi
 
 Esim. Bromin additio eteeniin $\text{C}_2 \text{H}_4 + \text{Br}_2  → \text{C}_2 \text{H}_3 \text{Br} + \text{HBr}$
 
-![Additio, esim. 1](/images/additio1.png "Additio, esim. 1")
+![Additio, esim. 1](/images/additio1.jpg "Additio, esim. 1")
 
 **Alkeenin pelkistyminen eli hydraus**
 

@@ -2,7 +2,7 @@
 
 ## Alkeenit
 
-Alkeenit ovat hiilivetyjä, joissa on ainakin yksi kaksoissidos. Ne ovat tärkeitä kemian teollisuudessa. 
+Alkeenit ovat hiilivetyjä, joissa on ainakin yksi kaksoissidos. Ne ovat tärkeitä kemian teollisuudessa.
 
 Avoketjuisten alkeenien, joissa on vain yksi kaksoissidos, yleinen molekyylikaava on $\text{C}_n \text{H}_{2n}$. Alkaaneihin verrattuna vetyjä mahtuu molekyyliin siis kaksi vähemmän. Tämä johtuu siitä, että hiilten välillä on alkaaniin verrattuna ylimääräinen sidos, johon kuluu yksi sidoselektroni kahdelta vierekkäiseltä hiileltä.
 

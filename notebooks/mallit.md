@@ -10,7 +10,7 @@ Viivakaava on yksinkertaistettu rakennekaava. Siinä jätetään merkitsemättä
 
 ![Orgaanisen kemian malleja](/images/mallit.png "Orgaanisen kemian malleja")
 
-Kuvassa on esitetty eräs mahdollinen rakennekaava, viivakaava ja kolmiulotteinen rakennekaava yhdisteelle, jonka molekyylikaava on $\text{C}_2\text{H}_5$.
+Kuvassa on esitetty eräs mahdollinen rakennekaava, viivakaava ja kolmiulotteinen rakennekaava yhdisteelle, jonka molekyylikaava on $\text{C}_5\text{H}_{10}$.
 
 Rakennekaavan tai viivakaavan perusteella yhdisteelle voidaan antaa niin sanottu systemaattinen nimi. Nimen muodostamisen säännöt käsitellään eri yhdistetyyppien yhteydessä. Vastaavasti jos yhdisteen systemaattinen nimi on tiedossa, voidaan sen perusteella piirtää yhdisteen rakennekaava.
 

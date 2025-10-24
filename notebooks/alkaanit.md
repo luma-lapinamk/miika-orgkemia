@@ -45,8 +45,8 @@ $\text{CH}_3 \text{Cl}+\text{Cl}_2 \rightarrow \text{CH}_2 \text{Cl}_2+\text{HCl
 
 **Eliminaatio**
 
-Yleisesti eliminaatio on kemiallinen reaktio, jossa molekyylistä poistetaan jokin pieni molekyyli, kuten vesi, vety tai vetyhalogenidi (H + halogeeni). Jäljelle jää uusi hiilivety, useimmiten alkeeni, joista lisää seuraavassa kappaleessa, tai rengasrakenne. Eliminaatioreaktio tapahtuu yleensä korkeassa lämpötilassa tai lisäämällä reaktioon katalyytti.
+Yleisesti eliminaatio on kemiallinen reaktio, jossa molekyylistä poistetaan jokin pieni molekyyli, kuten vesi- tai vetymolekyyli tai vetyhalogenidi (H + halogeeni). Jäljelle jää uusi hiilivety, useimmiten alkeeni, joista lisää seuraavassa kappaleessa, tai rengasrakenne. Eliminaatioreaktio tapahtuu yleensä korkeassa lämpötilassa tai lisäämällä reaktioon katalyytti.
 
-Esimerkiksi butaanin eliminaatioreaktio olisi $(\text{C}_4\text{H}_{10})$ $\mathrm{C_4H_{10} \rightarrow C_4H_8 + H_2}$, jossa syntyy buteenia $(\text{C}_4\text{H}_{8})$.
+Esimerkiksi butaanin eliminaatioreaktio olisi $\mathrm{C_4H_{10} \rightarrow C_4H_8 + H_2}$, jossa syntyy buteenia $(\text{C}_4\text{H}_{8})$.
 
 Eliminaatioreaktiot ovat kuitenkin harvinaisia alkaaneille. Yleensä ne tapahtuvat alkyylihalideille eli alkaaneille, joissa on jonkun tai joidenkin vetyatomien tilalla halogeeni, kuten fluori tai kloori. Esimerkiksi kloorietaanista saadaan eteeniä vahvan emäksen katalysoidessa reaktiota seuraavasti: $\text{CH}_3\text{CH}_2\text{Cl} \rightarrow \text{C}_2\text{H}_4 +\text{HCl}$.

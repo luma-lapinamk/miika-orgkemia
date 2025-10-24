@@ -38,7 +38,7 @@ Alla olevat yhdisteet ovat nimeltään 1-bromipropaani ja 2-bromipropaani (kolme
 
 ![Paikkaisomeria, esim. 1](/images/bromipropaanit.png "Paikkaisomeria, esim. 1")
 
-Alla olevassa esimerkissä nimi buteeni tarkoittaa neljän hiilen ketjua, jossa on yksi kaksoissidos. Nimen etuliite $1-$ tarkoittaa kaksoissidosta hiiliketjun alusta laskien ensimmäisen ja toisen hiilen välissä, ja etuliite $2-$ tarkoittaa sidosta toisen ja kolmannen hiilen välissä. Huomaa, että 1-buteenissa numero on tosiaan 1 eikä 3. Hiilet on numeroitu alkaen siitä päästä ketjua, josta on lyhin matka kaksoisidokseen, siis oikealta.
+Alla olevassa esimerkissä nimi *buteeni* tarkoittaa neljän hiilen ketjua, jossa on yksi kaksoissidos. Nimen etuliite $1-$ tarkoittaa kaksoissidosta hiiliketjun alusta laskien ensimmäisen ja toisen hiilen välissä, ja etuliite $2-$ tarkoittaa sidosta toisen ja kolmannen hiilen välissä. Huomaa, että 1-buteenissa numero on tosiaan 1 eikä 3. Hiilet on numeroitu alkaen siitä päästä ketjua, josta on lyhin matka kaksoisidokseen, siis oikealta.
 
 ![Paikkaisomeria, esim. 2](/images/buteenit.png "Paikkaisomeria, esim. 2")
 
@@ -52,7 +52,7 @@ Kuvan vasemmanpuoleisessa molekyylissä (1-propanoli) happi on asettunut molekyy
 
 |ominaisuus|1-propanoli|etyylimetyylieetteri|
 |----------|--------|--------|
-|molekyylikaava|$\text{C}_3\text{H}_{7}\text{OH}$|$\text{C}_3\text{H}_{8}$|
+|molekyylikaava|$\text{C}_3\text{H}_{8}\text{O}$ tai $\text{C}_3\text{H}_{7}\text{OH}$ |$\text{C}_3\text{H}_{8}\text{O}$|
 |moolimassa|60.10 g/mol|60.10 g/mol|
 |tiheys|0.80 g/cm$^3$|0.73 g/cm$^3$|
 |sulamispiste|-126.5$^{\circ}$ C|-113.0$^{\circ}$ C|

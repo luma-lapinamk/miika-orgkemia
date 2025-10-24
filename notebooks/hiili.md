@@ -16,7 +16,7 @@ Hiiltä on alun perin syntynyt (ja syntyy koko ajan lisää) tähdissä. Hiiltä
 
 Hiiliatomi voi kiinnittyä toisiin hiiliatomeihin monin eri tavoin. Rakenteita, joita näistä eri kiinnitystavoista muodostuu, sanotaan hiilen allotrooppisiksi muodoiksi. Yleisiä allotrooppisia muotoja on alla olevissa kuvissa.
 
-![Hiilen allotrooppiset muodot](/images/allotropia.PNG "Hiilen allotrooppiset muodot")
+![Hiilen allotrooppiset muodot](/images/allotropia.png "Hiilen allotrooppiset muodot")
 
 - Grafiitti: hiiliatomit muodostavat levyjä, jotka voivat liukua toistensa päällä. Lyijykynän ”lyijy” on grafiittia.
 - Timantti: hiiliatomit muodostavat hyvin kestävän hilarakenteen. Timantti on erittäin kovaa ainetta.

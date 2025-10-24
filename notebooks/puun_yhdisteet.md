@@ -26,7 +26,7 @@ Seuraava suurempi rakenneyksikkö on nauhamainen mikrofibrilli, joka koostuu 16 
 
 Selluloosaketjut ulottuvat mikrofibrilleissä läpi lukuisten kiteisten ja amorfisten alueiden sitoen ne toisiinsa kovalenttisilla sidoksilla. Puhtaan selluloosan kristallipitoisuudeksi arvioidaan noin 45 %. 
 
-![Mikrofibrilli](/images/mikrofibrilli.PNG "Mikrofibrilli")
+![Mikrofibrilli](/images/mikrofibrilli.png "Mikrofibrilli")
 
 Kemialliset reaktiot tapahtuvat ensin selluloosan amorfisella alueella tai kiderakenteen pinnalla. Selluloosakuidun sisällä reaktiot tapahtuvat vasta, kun reagenssimolekyylit pääsevät selluloosakuitujen sisälle. Kiderakennetta voidaan hajottaa voimakkailla hapoilla.
 

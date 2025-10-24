@@ -30,4 +30,4 @@ Karboksyylihapot ja alkoholit voivat muodostaa keskenään voimakkaasti tuoksuvi
 
 Esim. Etaanihapon (etikkahappo) ja etanolin reaktiossa syntyy etaanihapon etyyliesteri:
 
-![Esterin muodostuminen](/images/esteri.PNG "Esterin muodostuminen")
+![Esterin muodostuminen](/images/esteri.png "Esterin muodostuminen")

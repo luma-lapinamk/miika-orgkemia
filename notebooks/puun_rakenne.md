@@ -18,7 +18,7 @@ Kuvan lähde: [KnowPulp](http://www.knowpulp.com)
 
 Puusolun soluseinä muodostuu kerroksista, jotka eroavat toisistaan rakenteensa, kemiallisen koostumuksensa ja syntyhistoriansa puolesta. Soluseinät sisältävät pääasiassa selluloosaa, hemiselluloosaa ja ligniiniä, ja lisäksi hieman uuteaineita. Nämä yhdisteet eivät ole jakautuneet tasaisesti kuitukerroksiin, joten eri kerrokset sisältävät näitä yhdisteitä eri suhteissa. Selluloosa muodostaa solulle eräänlaisen rungon, jota muut aineet täyttävät ja ympäröivät. 
 
-![Puun soluseinä](/images/puun_solu.png "Puun soluseinä")
+![Puun soluseinä](/images/puun_solu.PNG "Puun soluseinä")
 
 Kuvan lähde: [Saranpää, P. Puun rakenne, ominaisuudet ja kasvu. Metsätieteen aikakauskirja 1/1997.](https://www.metsatieteenaikakauskirja.fi/pdf/article6360.pdf)
 

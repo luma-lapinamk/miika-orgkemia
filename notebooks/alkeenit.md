@@ -30,7 +30,7 @@ Veden additio tapahtuu samaan tapaa kuin halogeenien additio, mutta molekyyliin 
 
 Esim. Veden additio 2-metyyli-1-buteeniin
 
-![Additio, esim. 2](/images/additio2.png "Additio, esim. 2")
+![Additio, esim. 2](/images/additio2.PNG "Additio, esim. 2")
 
 Veden liittyminen noudattaa enimmäkseen **Markovnikovin sääntöä**: vety liittyy siihen hiilen, jossa jo ennestään on enemmän vetyä. Samassa reaktiossa voi kuitenkin muodostua myös sellaista yhdistettä, jossa vedyn ja $\text{OH}$-ryhmän sijainti onkin päinvastainen. Tuloksena on siis kahden yhdisteen seos, jossa kuitenkin Markovnikovin säännön mukaista tuotetta on enemmän.
 

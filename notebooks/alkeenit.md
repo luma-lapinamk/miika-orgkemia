@@ -16,7 +16,7 @@ Additioreaktiossa kaksoissidos purkautuu, ja hiilirunkoon liittyy entisen kaksoi
 
 Esim. Bromin additio eteeniin $\text{C}_2 \text{H}_4 + \text{Br}_2  → \text{C}_2 \text{H}_3 \text{Br} + \text{HBr}$
 
-![Additio, esim. 1](/images/additio1.jpg "Additio, esim. 1")
+![Additio, esim. 1](/images/additio1.png "Additio, esim. 1")
 
 **Alkeenin pelkistyminen eli hydraus**
 
@@ -30,7 +30,7 @@ Veden additio tapahtuu samaan tapaa kuin halogeenien additio, mutta molekyyliin 
 
 Esim. Veden additio 2-metyyli-1-buteeniin
 
-![Additio, esim. 2](/images/additio2.png "Additio, esim. 2")
+![Additio, esim. 2](/images/additio2.jpg "Additio, esim. 2")
 
 Veden liittyminen noudattaa enimmäkseen **Markovnikovin sääntöä**: vety liittyy siihen hiilen, jossa jo ennestään on enemmän vetyä. Samassa reaktiossa voi kuitenkin muodostua myös sellaista yhdistettä, jossa vedyn ja $\text{OH}$-ryhmän sijainti onkin päinvastainen. Tuloksena on siis kahden yhdisteen seos, jossa kuitenkin Markovnikovin säännön mukaista tuotetta on enemmän.
 
